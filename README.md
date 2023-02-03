@@ -14,7 +14,7 @@ Our slope is not zero just be looking at the p-value, which is less than 0.05.
 
 Our R-squared value is 71%, which means roughly ~71% of the time the model will predict mpg values correctly. There are probably other factors that were not captured in the datasaet that contribute to the mpg variability of the MechaCar prototypes.
 
-![Output]()
+![Output](https://github.com/tianiedwards98/MechaCar_Analysis/blob/main/Images/Linear-Regression-to-Predict-MPG-Output.png?raw=true)
 
 ## Summary Statistics on Suspension Coils
 
@@ -22,8 +22,8 @@ Our R-squared value is 71%, which means roughly ~71% of the time the model will 
 
 Lot 1 and Lot 2 are both within design specifications and have nearly the same exact mean and median. Lot 3 shows the most variance and exceeds the manufacturers specs.
 
-![Output]()
-![Output]()
+![Output](https://github.com/tianiedwards98/MechaCar_Analysis/blob/main/Images/Lot-summary-1.png?raw=true)
+![Output](https://github.com/tianiedwards98/MechaCar_Analysis/blob/main/Images/Lot-summary-2.png?raw=true)
 
 ## T-Tests on Suspension Coils
 
@@ -33,19 +33,19 @@ All t-tests can be seen below:
 
 ### Across All Lots:
 
-![Output]()
+![Output](https://github.com/tianiedwards98/MechaCar_Analysis/blob/main/Images/Across-all-lots.png?raw=true)
 
 ### Lot 1:
 
-![Output]()
+![Output](https://github.com/tianiedwards98/MechaCar_Analysis/blob/main/Images/Lot-1.png?raw=true)
 
 ### Lot 2:
 
-![Output]()
+![Output](https://github.com/tianiedwards98/MechaCar_Analysis/blob/main/Images/Lot-2.png?raw=true)
 
 ### Lot 3:
 
-![Output]()
+![Output](https://github.com/tianiedwards98/MechaCar_Analysis/blob/main/Images/Lot-3.png?raw=true)
 
 
 ## Study Design: MechaCar vs Competition
